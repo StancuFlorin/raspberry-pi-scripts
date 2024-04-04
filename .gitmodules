@@ -1,0 +1,3 @@
+[submodule "super-nespi-case"]
+	path = super-nespi-case
+	url = git@github.com:StancuFlorin/super-nespi-case.git
