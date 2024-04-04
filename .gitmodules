@@ -1,3 +1,6 @@
 [submodule "super-nespi-case"]
 	path = super-nespi-case
 	url = git@github.com:StancuFlorin/super-nespi-case.git
+[submodule "retroflag-gpicase2"]
+	path = retroflag-gpicase2
+	url = git@github.com:StancuFlorin/retroflag-gpicase2.git
